@@ -133,7 +133,7 @@ checkBtn.MouseButton1Click:Connect(function()
 		gui:Destroy()
 
 		local success, err = pcall(function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/newbie0z-lol/bri-/refs/heads/main/Protected_8888589279991485.lua"))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/newbiezlol/demo/refs/heads/main/demo.txt"))()
 		end)
 		if not success then
 			game.Players.LocalPlayer:Kick("Lỗi tải script, hãy liên hệ Admin.")
