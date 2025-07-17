@@ -1,7 +1,7 @@
 local TweenService = game:GetService("TweenService")
 
 -- ✅ Key thật và link
-local trueKey = "https://ymnnote.com/n/725a74"
+local trueKey = "https://sharekeylamchos/"
 local getKeyLink = "https://yeumoney.com/FLCpZEef9"
 
 -- 📦 GUI
