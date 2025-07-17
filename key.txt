@@ -1,8 +1,8 @@
 local TweenService = game:GetService("TweenService")
 
 -- ✅ Key thật và link
-local trueKey = "http://niggeria"
-local getKeyLink = "https://link4m.com/dJEw4IPd"
+local trueKey = "https://ymnnote.com/n/725a74"
+local getKeyLink = "https://yeumoney.com/FLCpZEef9"
 
 -- 📦 GUI
 local gui = Instance.new("ScreenGui")
@@ -139,7 +139,7 @@ checkBtn.MouseButton1Click:Connect(function()
 			game.Players.LocalPlayer:Kick("Lỗi tải script, hãy liên hệ Admin.")
 		end
 	else
-		warnLabel.Text = "❌ Sai Key rồi bro ơi!"
+		warnLabel.Text = "❌ Sai Key rồi bro ơi! - Hoặc bro dùng unikey"
 	end
 end)
 
